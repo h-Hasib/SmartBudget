@@ -1,12 +1,12 @@
 
 # SmartBudget
 
-SmartBudget is a budgeting app that allows you to track your income, expenses, and savings in real-time. This is a cross-platform mobile application for both android and iOS.
+SmartBudget is a budgeting app that allows you to track your income, expenses, and savings in real-time. This is a cross-platform mobile application for both Android and iOS.
 
 
 ## Features
 
-- Cross platform
+- Cross-platform
 - Light/dark mode toggle
 - Multiple language (En-Bn)
 - Live previews
@@ -17,8 +17,12 @@ SmartBudget is a budgeting app that allows you to track your income, expenses, a
 
 **Client:** React Native, TypeScript, Expo
 
-**Server:** Node, Express (backened isn't ready yet)
+**Server:** Node, Express (backend isn't ready yet)
 
+## Acknowledgement
+
+I've intentionally uploaded an incomplete codebase for this project, as I developed it while working for a company. I believe sharing the entire production-level code on a personal GitHub repository is ethically questionable.
+Nevertheless, the uploaded code reflects my coding standards and showcases my contributions to this project.
 
 ## App Banner
 
